@@ -11,7 +11,7 @@ public class second extends first
 	 second s=(second)new first();  // downcasting
 	 s.abc();
      System.out.println("Changes done here");
-	 
+	 System.out.println("changes done by gitesh now");
 	 
 	 
 	}
